@@ -136,4 +136,5 @@ getUsers();
 //Answers to questions
 //1. 200 for GET and PUT (list users and update a user) , 204 for DELETE (delete a user)
 //2. 2xx are for successful requests, 3xx are for Redirections, 4xx are for errors on the client side, 5xx are for errors on the server side
-//3. A javascript promise is an object 
+//3. A javascript promise is an object that carries an asynchronous operation that may fail or succeed
+//    and when it succeeds it may bring back a value (promise value)  
